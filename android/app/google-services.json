@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39779621362",
+    "project_id": "medical-fc98c",
+    "storage_bucket": "medical-fc98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39779621362:android:cdea6048d849a64723336b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39779621362-9eioh2oceu4lq5rmt2je51cofr59hj56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "a9b992ec51af143995c5fb8404ded69eeb9c3eb8"
+          }
+        },
+        {
+          "client_id": "39779621362-p16h19jfata4lutea0uovvt5vh24buuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNajJD5M7Htu2g-9WH66dmNCvadFpj5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39779621362-p16h19jfata4lutea0uovvt5vh24buuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

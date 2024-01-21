@@ -1,0 +1,21 @@
+{
+    "Title-Gantibahasa" : "تغيير اللغة",
+    "Menu-Identitas" : "الهوية الشخصية",
+    "Menu-Riwayat" : "تاريخ",
+    "Menu-Kontak" : "جهة اتصال للطوارئ",
+    "Menu-Tentang" : "معلومات عنا",
+    "Menu-Bahasa" : "لغة",
+    "Title-Pilih-Dokter" : "اختر الطبيب الذي تحتاجه",
+    "Title-Butuhkan" : "يحتاج",
+    "HintText-Cari-Dokter" : "بحث دكتور...",
+    "Text-Jenis-Spesialis" : "أنواع المتخصصين",
+    "Button-Kardiologi" : "أمراض القلب",
+    "Button-Gigi" : "طبيب أسنان",
+    "Button-Orthopedi" : "طب العظام",
+    "Button-Bedah-Plastik" : "جراحة تجميلية",
+    "Button-Pediatric" : "طب الأطفال",
+    "Button-Gastroenterologi" : "أمراض الجهاز الهضمي",
+    "Button-Neurolog" : "علم الأعصاب",
+    "Button-Pulmologi" : "أمراض الرئة",
+    "Text-Dokter" : "الطبيب ذات الصلة"
+}
